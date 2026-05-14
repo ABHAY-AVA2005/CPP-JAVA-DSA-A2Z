@@ -3,10 +3,6 @@
 ### Difficulty: Courses
 Tutorials
 Practice
-Free Google Workshops
-Practice Coding Problems
-Problem of the Day
-Connect 1:1 with Experts
 Jobs
 99+
 A
