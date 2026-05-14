@@ -1,22 +1,17 @@
 class Solution {
-    public int getSecondLargest(int[] arr) {
+    void pushZerosToEnd(int[] arr) {
         // code here
-        int max=-1,secmax=-1;
+        int index = 0;
         
-        for(int i=0;i<arr.length;i++)
-        {
-            if(arr[i]>max)
+        for (int i = 0; i<arr.length; i++)
             {
-                secmax=max;
-                max=arr[i];
-            }
-            else if(arr[i]<max && arr[i]>secmax)
-            {
-                secmax=arr[i];
-                
+            if (arr[i] != 0)
+                {
+                int temp = arr[index];
+                arr[index] = arr[i];
+                arr[i] = temp;
+                index++;
             }
         }
-        return secmax;
-        
     }
 }
