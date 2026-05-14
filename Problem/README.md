@@ -136,6 +136,7 @@ If you are facing any issue on this page. Please let us know.
 Output Window
 Compilation Results
 Custom Input
+Y.O.G.I. (AI Bot)
 Problem Solved Successfully
 
 Suggest Feedback
@@ -143,14 +144,16 @@ Suggest Feedback
 Test Cases Passed
 1120 / 1120
 Attempts : Correct / Total
-You can see all your attempts in submission tab
+34 / 42
 Accuracy :
-100%
-Points Scored 
-You can see the score in submission tab
+80%
 Time Taken
 0.77
-Calculating score…
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
+
+Solve Next
+
+Move All Zeroes to End
 Java (21)
 Add note
 Start Timer
