@@ -4,3 +4,4 @@
 
 | Platform | Problem | Difficulty | Solution | Date |
 | --- | --- | --- | --- | --- |
+| GeeksforGeeks | Second Largest | EasyAccuracy | [View Code](Second Largest/solution.java) | 5/14/2026 |
