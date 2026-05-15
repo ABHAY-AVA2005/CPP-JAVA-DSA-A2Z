@@ -8,3 +8,4 @@
 | GeeksforGeeks | Move All Zeroes to End | EasyAccuracy | [View Code]([GFG] Move All Zeroes to End/solution.java) | 5/14/2026 |
 | GeeksforGeeks | Reverse an Array | EasyAccuracy | [View Code]([GFG] Reverse an Array/solution.java) | 5/14/2026 |
 | GeeksforGeeks | Rotate Array | MediumAccuracy | [View Code]([GFG] Rotate Array/solution.java) | 5/14/2026 |
+| GeeksforGeeks | Stock Buy and Sell – Max one Transaction Allowed | EasyAccuracy | [View Code]([GFG] Stock Buy and Sell _ Max one Transaction Allowed/solution.java) | 5/15/2026 |
