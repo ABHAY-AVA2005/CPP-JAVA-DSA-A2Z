@@ -11,3 +11,4 @@
 | GeeksforGeeks | Stock Buy and Sell – Max one Transaction Allowed | EasyAccuracy | [View Code]([GFG] Stock Buy and Sell _ Max one Transaction Allowed/solution.java) | 5/15/2026 |
 | HackerRank | Greatest Of Three 3 Submission #1408379393 | Medium | [View Code]([HR] Greatest Of Three 3 Submission _1408379393/solution.java) | 5/16/2026 |
 | HackerRank | Count of V C D S Sy Submission #1408379483 | Medium | [View Code]([HR] Count of V C D S Sy Submission _1408379483/solution.java) | 5/16/2026 |
+| HackerRank | Check Type Of Alphabets Submission #1408379529 | Medium | [View Code]([HR] Check Type Of Alphabets Submission _1408379529/solution.java) | 5/16/2026 |
