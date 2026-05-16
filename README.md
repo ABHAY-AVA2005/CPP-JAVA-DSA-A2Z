@@ -13,3 +13,4 @@
 | HackerRank | Count of V C D S Sy Submission #1408379483 | Medium | [View Code]([HR] Count of V C D S Sy Submission _1408379483/solution.java) | 5/16/2026 |
 | HackerRank | Check Type Of Alphabets Submission #1408379529 | Medium | [View Code]([HR] Check Type Of Alphabets Submission _1408379529/solution.java) | 5/16/2026 |
 | HackerRank | Atm 500s 100s Submission #1408379674 | Medium | [View Code]([HR] Atm 500s 100s Submission _1408379674/solution.java) | 5/16/2026 |
+| HackerRank | electricity bill units Submission #1408379734 | Medium | [View Code]([HR] electricity bill units Submission _1408379734/solution.java) | 5/16/2026 |
