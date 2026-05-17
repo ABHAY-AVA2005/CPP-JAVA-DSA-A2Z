@@ -17,3 +17,4 @@
 | HackerRank | armstrong number or Narcissistic number | Medium | [View Code]([HR] armstrong number or Narcissistic number/solution.java) | 5/16/2026 |
 | HackerRank | Armstrong Numbers in a Range 1 Submission #1408383648 | Medium | [View Code]([HR] Armstrong Numbers in a Range 1 Submission _1408383648/solution.java) | 5/16/2026 |
 | HackerRank | Palindrome Number Checker 5 Submission #1408383675 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
+| HackerRank | Reverse and Add to Make a Palindrome Submission #1408388627 | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
