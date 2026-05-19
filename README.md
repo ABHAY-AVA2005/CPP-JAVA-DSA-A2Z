@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 0 | ![LeetCode](https://img.shields.io/badge/LeetCode-0-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 17 | ![HackerRank](https://img.shields.io/badge/HackerRank-17-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **22** | ![Total](https://img.shields.io/badge/Total-22-007ACC?style=flat-square) |
+| HackerRank | 18 | ![HackerRank](https://img.shields.io/badge/HackerRank-18-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **23** | ![Total](https://img.shields.io/badge/Total-23-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -35,3 +35,4 @@
 | 20 | HackerRank | Digit Position Weighted Sum 1 Submission #1408416391 | Medium | [View Code]([HR] Digit Position Weighted Sum 1 Submission _1408416391/solution.java) | 5/18/2026 |
 | 21 | HackerRank | Digit Position Weighted Sum 1 Submission #1408418136 | Medium | [View Code]([HR] Digit Position Weighted Sum 1 Submission _1408418136/solution.java) | 5/18/2026 |
 | 22 | HackerRank | Conditional Number Transformation Submission #1408419348 | Medium | [View Code]([HR] Conditional Number Transformation Submission _1408419348/solution.java) | 5/18/2026 |
+| 23 | HackerRank | Threshold Breaking Point Submission #1408441634 | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
