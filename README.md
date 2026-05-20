@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 0 | ![LeetCode](https://img.shields.io/badge/LeetCode-0-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 24 | ![HackerRank](https://img.shields.io/badge/HackerRank-24-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **29** | ![Total](https://img.shields.io/badge/Total-29-007ACC?style=flat-square) |
+| HackerRank | 25 | ![HackerRank](https://img.shields.io/badge/HackerRank-25-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **30** | ![Total](https://img.shields.io/badge/Total-30-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -42,3 +42,4 @@
 | 27 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
 | 28 | HackerRank | Reverse the Array 30 Submission #1408468526 | Medium | [View Code]([HR] Reverse the Array 30 Submission _1408468526/solution.java) | 5/20/2026 |
 | 29 | HackerRank | Reverse the Array 30 Submission #1408469298 | Medium | [View Code]([HR] Reverse the Array 30 Submission _1408469298/solution.java) | 5/20/2026 |
+| 30 | HackerRank | Character Pattern Printing | Medium | [View Code]([HR] Character Pattern Printing/solution.java) | 5/20/2026 |
