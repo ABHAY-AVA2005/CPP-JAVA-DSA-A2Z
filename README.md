@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 0 | ![LeetCode](https://img.shields.io/badge/LeetCode-0-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 22 | ![HackerRank](https://img.shields.io/badge/HackerRank-22-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **27** | ![Total](https://img.shields.io/badge/Total-27-007ACC?style=flat-square) |
+| HackerRank | 23 | ![HackerRank](https://img.shields.io/badge/HackerRank-23-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **28** | ![Total](https://img.shields.io/badge/Total-28-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -40,3 +40,4 @@
 | 25 | HackerRank | Alternating Prime Check Sequence Submission #1408442406 | Medium | [View Code]([HR] Alternating Prime Check Sequence Submission _1408442406/solution.java) | 5/19/2026 |
 | 26 | HackerRank | Count Digits Remainder | Medium | [View Code]([HR] Count Digits Remainder/solution.java) | 5/20/2026 |
 | 27 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
+| 28 | HackerRank | Reverse the Array 30 Submission #1408468526 | Medium | [View Code]([HR] Reverse the Array 30 Submission _1408468526/solution.java) | 5/20/2026 |
