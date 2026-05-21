@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 0 | ![LeetCode](https://img.shields.io/badge/LeetCode-0-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 19 | ![HackerRank](https://img.shields.io/badge/HackerRank-19-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **24** | ![Total](https://img.shields.io/badge/Total-24-007ACC?style=flat-square) |
+| HackerRank | 20 | ![HackerRank](https://img.shields.io/badge/HackerRank-20-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **25** | ![Total](https://img.shields.io/badge/Total-25-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -33,7 +33,8 @@
 | 18 | HackerRank | Find the Maximum Element(spec) | Medium | [View Code]([HR] Find the Maximum Element_spec_ Submission _1408408804/solution.java) | 5/17/2026 |
 | 19 | HackerRank | Greatest Of Three 3 | Medium | [View Code]([HR] Greatest Of Three 3 Submission _1408379393/solution.java) | 5/16/2026 |
 | 20 | HackerRank | Leader Board Array -Spec | Medium | [View Code]([HR] Leader Board Array _Spec Submission _1408409218/solution.java) | 5/18/2026 |
-| 21 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
-| 22 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
-| 23 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
-| 24 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
+| 21 | HackerRank | Longest Continuous 1s in Binary Array | Medium | [View Code]([HR] Longest Continuous 1s in Binary Array/solution.java) | 5/21/2026 |
+| 22 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
+| 23 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
+| 24 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
+| 25 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
