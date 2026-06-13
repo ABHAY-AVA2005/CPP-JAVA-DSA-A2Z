@@ -65,9 +65,5 @@ hello everyone
 
 olleh enoyreve
 
-hai iam krishna from CSITECEEEE branch
-
-iah mai anhsirk morf EEEECETISC hcnarb
-
-iah mai anhsirk morf EEEECETISC hcnarb
+Success
 ```
