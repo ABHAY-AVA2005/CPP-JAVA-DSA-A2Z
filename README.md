@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 8 | ![LeetCode](https://img.shields.io/badge/LeetCode-8-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 23 | ![HackerRank](https://img.shields.io/badge/HackerRank-23-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **36** | ![Total](https://img.shields.io/badge/Total-36-007ACC?style=flat-square) |
+| HackerRank | 24 | ![HackerRank](https://img.shields.io/badge/HackerRank-24-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **37** | ![Total](https://img.shields.io/badge/Total-37-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -42,10 +42,11 @@
 | 27 | HackerRank | electricity bill units | Medium | [View Code]([HR] electricity bill units Submission _1408379734/solution.java) | 5/16/2026 |
 | 28 | HackerRank | Find the Maximum Element(spec) | Medium | [View Code]([HR] Find the Maximum Element_spec_ Submission _1408408804/solution.java) | 5/17/2026 |
 | 29 | HackerRank | Greatest Of Three 3 | Medium | [View Code]([HR] Greatest Of Three 3 Submission _1408379393/solution.java) | 5/16/2026 |
-| 30 | HackerRank | Leader Board Array -Spec | Medium | [View Code]([HR] Leader Board Array _Spec Submission _1408409218/solution.java) | 5/18/2026 |
-| 31 | HackerRank | Longest Continuous 1s in Binary Array | Medium | [View Code]([HR] Longest Continuous 1s in Binary Array/solution.java) | 5/21/2026 |
-| 32 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
-| 33 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
-| 34 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
-| 35 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
-| 36 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
+| 30 | HackerRank | Hidden Duplicate Remover (Without Changing Order) | Medium | [View Code]([HR] Hidden Duplicate Remover _Without Changing Order_/solution.java) | 6/13/2026 |
+| 31 | HackerRank | Leader Board Array -Spec | Medium | [View Code]([HR] Leader Board Array _Spec Submission _1408409218/solution.java) | 5/18/2026 |
+| 32 | HackerRank | Longest Continuous 1s in Binary Array | Medium | [View Code]([HR] Longest Continuous 1s in Binary Array/solution.java) | 5/21/2026 |
+| 33 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
+| 34 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
+| 35 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
+| 36 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
+| 37 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
