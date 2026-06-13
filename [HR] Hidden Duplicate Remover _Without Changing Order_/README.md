@@ -54,9 +54,5 @@ banana
 
 ban
 
-programming
-
-progamin
-
-progamin
+Success
 ```
