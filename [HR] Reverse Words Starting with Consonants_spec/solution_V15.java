@@ -15,17 +15,17 @@
             }
         }
 
+        System.out.println(result);
+    }
+
+    // Primitive consonant check
+    private static boolean isConsonant(char ch) {
+        if (ch >= 'A' && ch <= 'Z') {
+            ch = (char) (ch + 32); // Simple primitive lowercase cast
+        }
                 i++;
             int start = i;
             while (i < n && s.charAt(i) != ' ') {
 
             // 2. Find boundaries of the current word
             }
-                continue;
-                i++;
-                result += " ";
-            if (s.charAt(i) == ' ') {
-            // 1. Handle spaces exactly as they are
-        while (i < n) {
-
-        int i = 0;
