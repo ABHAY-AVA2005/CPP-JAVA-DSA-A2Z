@@ -15,16 +15,15 @@
             else {
                 res += c;
             }
-        String s = sc.nextLine();
         }
 
+        // If the final string equals the original string, no vowels changed
+        if (res.equals(s)) {
             System.out.println("** No vowels present**");
-            sc.close();
-            return;
-        if (!sc.hasNextLine()) {
-        Scanner sc = new Scanner(System.in);
-        
-    public static void main(String[] args) {
-public class Solution {
+        } else {
+            System.out.println(res);
+        }
 
-import java.util.Scanner;
+        sc.close();
+    }
+}
