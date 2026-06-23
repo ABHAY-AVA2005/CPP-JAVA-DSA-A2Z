@@ -54,9 +54,5 @@ hello world java programming
 
 hello dlrow java gnimmargorp
 
-hai iam krishna from CSITECEEEE branch
-
-hai mai krishna morf CSITECEEEE hcnarb
-
-hai mai krishna morf CSITECEEEE hcnarb
+Success
 ```
