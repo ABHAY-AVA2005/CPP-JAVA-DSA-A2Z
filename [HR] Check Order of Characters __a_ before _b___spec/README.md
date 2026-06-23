@@ -56,9 +56,5 @@ ababa
 
 false
 
-aaabb
-
-true
-
-true
+Success
 ```
