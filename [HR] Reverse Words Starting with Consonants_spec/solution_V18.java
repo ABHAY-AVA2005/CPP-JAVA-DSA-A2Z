@@ -7,7 +7,7 @@
             }
             int end = i - 1;
 
-            // 3. Brute Force Condition Check
+            // 3.consonant  Condition Check
             if (isConsonant(s.charAt(start))) {
                 // Brute Force Inner Loop: Append characters backward 
                 from the word's end index
@@ -25,6 +25,5 @@
                 result += " ";
             if (s.charAt(i) == ' ') {
             // 1. Handle spaces exactly as they are
-        while (i < n) {
             }
         }
