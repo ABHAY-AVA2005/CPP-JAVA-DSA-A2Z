@@ -56,9 +56,5 @@ Apple Banana Orange Mango
 
 Apple ananaB Orange ognaM
 
-Hello Everyone how are Doing
-
-olleH Everyone woh are gnioD
-
-olleH Everyone woh are gnioD
+Success
 ```
