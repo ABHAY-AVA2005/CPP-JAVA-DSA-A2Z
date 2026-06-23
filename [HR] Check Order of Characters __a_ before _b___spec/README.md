@@ -55,6 +55,4 @@ true
 ababa
 
 false
-
-Success
 ```
