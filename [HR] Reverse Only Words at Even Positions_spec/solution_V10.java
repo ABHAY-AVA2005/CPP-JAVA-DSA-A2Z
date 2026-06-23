@@ -26,6 +26,6 @@
             }
         }
         scanner.close();
-    }
-}
             
+            String s = scanner.nextLine();
+        if (scanner.hasNextLine()) {
