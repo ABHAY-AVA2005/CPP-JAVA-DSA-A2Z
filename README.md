@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 8 | ![LeetCode](https://img.shields.io/badge/LeetCode-8-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 33 | ![HackerRank](https://img.shields.io/badge/HackerRank-33-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **46** | ![Total](https://img.shields.io/badge/Total-46-007ACC?style=flat-square) |
+| HackerRank | 34 | ![HackerRank](https://img.shields.io/badge/HackerRank-34-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **47** | ![Total](https://img.shields.io/badge/Total-47-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -58,4 +58,5 @@
 | 43 | HackerRank | Strings: Word Analyzer with Length(spec) | Medium | [View Code]([HR] Strings_ Word Analyzer with Length_spec_/solution.java) | 6/13/2026 |
 | 44 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
 | 45 | HackerRank | Toggle Case of All Characters-spec | Medium | [View Code]([HR] Toggle Case of All Characters_spec/solution.java) | 6/23/2026 |
-| 46 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
+| 46 | HackerRank | Toggle Case of Vowels in a String-spec | Medium | [View Code]([HR] Toggle Case of Vowels in a String_spec/solution.java) | 6/23/2026 |
+| 47 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
