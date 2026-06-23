@@ -17,14 +17,14 @@
             }
         String s = sc.nextLine();
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-public class Solution {
-import java.util.Scanner;
-
         }
 
         // If the final string equals the original string, no vowels changed
         if (res.equals(s)) {
             System.out.println("** No vowels present**");
         } else {
+            System.out.println(res);
+        }
+
+    }
+}
