@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 8 | ![LeetCode](https://img.shields.io/badge/LeetCode-8-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 28 | ![HackerRank](https://img.shields.io/badge/HackerRank-28-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **41** | ![Total](https://img.shields.io/badge/Total-41-007ACC?style=flat-square) |
+| HackerRank | 29 | ![HackerRank](https://img.shields.io/badge/HackerRank-29-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **42** | ![Total](https://img.shields.io/badge/Total-42-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -48,9 +48,10 @@
 | 33 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
 | 34 | HackerRank | Reverse a String and Count No of Characters | Medium | [View Code]([HR] Reverse a String and Count No of Characters/solution.java) | 6/13/2026 |
 | 35 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
-| 36 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
-| 37 | HackerRank | Strings : Longest Word in a Sentence(spec) | Medium | [View Code]([HR] Strings _ Longest Word in a Sentence_spec_/solution.java) | 6/13/2026 |
-| 38 | HackerRank | Strings: Reverse Each Word in a Sentence(spec) | Medium | [View Code]([HR] Strings_ Reverse Each Word in a Sentence_spec_/solution.java) | 6/13/2026 |
-| 39 | HackerRank | Strings: Word Analyzer with Length(spec) | Medium | [View Code]([HR] Strings_ Word Analyzer with Length_spec_/solution.java) | 6/13/2026 |
-| 40 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
-| 41 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
+| 36 | HackerRank | Reverse Only Words at Even Positions-spec | Medium | [View Code]([HR] Reverse Only Words at Even Positions_spec/solution.java) | 6/23/2026 |
+| 37 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
+| 38 | HackerRank | Strings : Longest Word in a Sentence(spec) | Medium | [View Code]([HR] Strings _ Longest Word in a Sentence_spec_/solution.java) | 6/13/2026 |
+| 39 | HackerRank | Strings: Reverse Each Word in a Sentence(spec) | Medium | [View Code]([HR] Strings_ Reverse Each Word in a Sentence_spec_/solution.java) | 6/13/2026 |
+| 40 | HackerRank | Strings: Word Analyzer with Length(spec) | Medium | [View Code]([HR] Strings_ Word Analyzer with Length_spec_/solution.java) | 6/13/2026 |
+| 41 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
+| 42 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
