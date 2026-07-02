@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 8 | ![LeetCode](https://img.shields.io/badge/LeetCode-8-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 39 | ![HackerRank](https://img.shields.io/badge/HackerRank-39-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **52** | ![Total](https://img.shields.io/badge/Total-52-007ACC?style=flat-square) |
+| HackerRank | 40 | ![HackerRank](https://img.shields.io/badge/HackerRank-40-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **53** | ![Total](https://img.shields.io/badge/Total-53-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -52,16 +52,17 @@
 | 37 | HackerRank | Hidden Duplicate Remover (Without Changing Order) | Medium | [View Code]([HR] Hidden Duplicate Remover _Without Changing Order_/solution.java) | 6/13/2026 |
 | 38 | HackerRank | Leader Board Array -Spec | Medium | [View Code]([HR] Leader Board Array _Spec Submission _1408409218/solution.java) | 5/18/2026 |
 | 39 | HackerRank | Longest Continuous 1s in Binary Array | Medium | [View Code]([HR] Longest Continuous 1s in Binary Array/solution.java) | 5/21/2026 |
-| 40 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
-| 41 | HackerRank | Reverse a String and Count No of Characters | Medium | [View Code]([HR] Reverse a String and Count No of Characters/solution.java) | 6/13/2026 |
-| 42 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
-| 43 | HackerRank | Reverse Only Words at Even Positions-spec | Medium | [View Code]([HR] Reverse Only Words at Even Positions_spec/solution.java) | 6/23/2026 |
-| 44 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
-| 45 | HackerRank | Reverse Words Starting with Consonants-spec | Medium | [View Code]([HR] Reverse Words Starting with Consonants_spec/solution.java) | 6/23/2026 |
-| 46 | HackerRank | Strings : Longest Word in a Sentence(spec) | Medium | [View Code]([HR] Strings _ Longest Word in a Sentence_spec_/solution.java) | 6/13/2026 |
-| 47 | HackerRank | Strings: Reverse Each Word in a Sentence(spec) | Medium | [View Code]([HR] Strings_ Reverse Each Word in a Sentence_spec_/solution.java) | 6/13/2026 |
-| 48 | HackerRank | Strings: Word Analyzer with Length(spec) | Medium | [View Code]([HR] Strings_ Word Analyzer with Length_spec_/solution.java) | 6/13/2026 |
-| 49 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
-| 50 | HackerRank | Toggle Case of All Characters-spec | Medium | [View Code]([HR] Toggle Case of All Characters_spec/solution.java) | 6/23/2026 |
-| 51 | HackerRank | Toggle Case of Vowels in a String-spec | Medium | [View Code]([HR] Toggle Case of Vowels in a String_spec/solution.java) | 6/23/2026 |
-| 52 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
+| 40 | HackerRank | Mask Email Username-Crtprep | Medium | [View Code]([HR] Mask Email Username_Crtprep/solution.java) | 7/2/2026 |
+| 41 | HackerRank | Palindrome Number Checker 5 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
+| 42 | HackerRank | Reverse a String and Count No of Characters | Medium | [View Code]([HR] Reverse a String and Count No of Characters/solution.java) | 6/13/2026 |
+| 43 | HackerRank | Reverse and Add to Make a Palindrome | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
+| 44 | HackerRank | Reverse Only Words at Even Positions-spec | Medium | [View Code]([HR] Reverse Only Words at Even Positions_spec/solution.java) | 6/23/2026 |
+| 45 | HackerRank | Reverse the Array 30 | Medium | [View Code]([HR] Reverse the Array 30/solution.java) | 5/20/2026 |
+| 46 | HackerRank | Reverse Words Starting with Consonants-spec | Medium | [View Code]([HR] Reverse Words Starting with Consonants_spec/solution.java) | 6/23/2026 |
+| 47 | HackerRank | Strings : Longest Word in a Sentence(spec) | Medium | [View Code]([HR] Strings _ Longest Word in a Sentence_spec_/solution.java) | 6/13/2026 |
+| 48 | HackerRank | Strings: Reverse Each Word in a Sentence(spec) | Medium | [View Code]([HR] Strings_ Reverse Each Word in a Sentence_spec_/solution.java) | 6/13/2026 |
+| 49 | HackerRank | Strings: Word Analyzer with Length(spec) | Medium | [View Code]([HR] Strings_ Word Analyzer with Length_spec_/solution.java) | 6/13/2026 |
+| 50 | HackerRank | Threshold Breaking Point | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
+| 51 | HackerRank | Toggle Case of All Characters-spec | Medium | [View Code]([HR] Toggle Case of All Characters_spec/solution.java) | 6/23/2026 |
+| 52 | HackerRank | Toggle Case of Vowels in a String-spec | Medium | [View Code]([HR] Toggle Case of Vowels in a String_spec/solution.java) | 6/23/2026 |
+| 53 | HackerRank | Zig-Zag Sum Pattern | Medium | [View Code]([HR] Zig_Zag Sum Pattern/solution.java) | 5/29/2026 |
