@@ -87,9 +87,5 @@ ab@yahoo.com
 
 Invalid Email
 
-chary123@gmail.com
-
-chary123 3 GMAIL
-
-chary123 3 GMAIL
+Success
 ```
